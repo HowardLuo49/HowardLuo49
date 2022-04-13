@@ -1,6 +1,6 @@
 Hey there, I’m Howard Luo,
 
-An ambitious computer science and mathematics major at Rutgers University. Check out what I have!
+A computer science and mathematics major at Rutgers University. Check out what I have!
 
 Contact Me Here
 howardluo49@gmail.com
