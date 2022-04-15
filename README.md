@@ -2,7 +2,7 @@ Hey there, I’m Howard Luo,
 
 A computer science and mathematics major at Rutgers University. Check out what I have!
 
-Contact Me Here
+Contact Me Here:
 howardluo49@gmail.com
 
 <!---
